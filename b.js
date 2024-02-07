@@ -1,0 +1,1 @@
+window.alert("This site is harmful of your devices")
